@@ -10,20 +10,20 @@ I enjoy building practical projects, working in the terminal, learning how syste
 
 ## What I'm Currently Working On
 
-- ☁️ Learning **Cloud Engineering**
-- 🐍 Building projects with **Python, Flask & Django**
-- 🐧 Working with **Linux / Ubuntu**
-- 🖥️ Exploring **High-Performance Computing (HPC)**
-- 🌐 Building and improving my **developer portfolio**
-- 📚 Expanding my knowledge of software development and system administration
+- Learning **Cloud Engineering**
+- Building projects with **Python, Flask & Django**
+- Working with **Linux / Ubuntu**
+- Exploring **High-Performance Computing (HPC)**
+- Building and improving my **developer portfolio**
+- Expanding my knowledge of software development and system administration
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
-🐍 Python • 🌐 HTML • 🎨 CSS • ⚙️ JavaScript
+Python • HTML •  CSS •  JavaScript
 
 ### Frameworks
 
@@ -34,20 +34,20 @@ Flask • Django
 GitHub • Linux • Ubuntu • VS Code • Docker
 
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🎓 IsiZulu Corpus
+### IsiZulu Corpus
 A web application that translates zulu words into english words, provide a full descrition and any related words.
 
 **Technologies:** Python • Django • HTML • CSS • JavaScript
 
-### 👔 Tailor Cost Estimator
+###  Tailor Cost Estimator
 
 A machine-learning project that estimates tailoring costs based on garment and material information.
 
 **Technologies:** Python • Machine Learning • Pandas • Scikit-learn
 
-### 💻 Terminal Portfolio
+### Terminal Portfolio
 
 Currently working on developer portfolio designed around an **Ubuntu terminal experience**, where visitors can interact with custom commands to explore my skills, projects and experience.
 
@@ -55,7 +55,7 @@ Currently working on developer portfolio designed around an **Ubuntu terminal ex
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ```text
 Cloud Engineering
