@@ -12,8 +12,6 @@ I believe growth doesn't have to be loud to be real.
 
 💗**Email:** [Email](mailto:mafundyf2@gmail.com)
 
-<--💗 **My portfolio:** [Portfolio](https://your-portfolio-link.com)!-->
-
 💗 **My LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fundiswa-mandisa-mngadi-638970366)
 
 ---
