@@ -10,10 +10,10 @@ I believe growth doesn't have to be loud to be real.
 
 <h1 align="center">💗 How To Reach Me 💗</h1>
 
-💖 **Email:** [Email](mailto:mafundyf2@gmail.com)
+💗**Email:** [Email](mailto:mafundyf2@gmail.com)
 
-💖 **My portfolio:** [Portfolio](https://your-portfolio-link.com)
+<--💗 **My portfolio:** [Portfolio](https://your-portfolio-link.com)!-->
 
-💖 **My LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fundiswa-mandisa-mngadi-638970366)
+💗 **My LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fundiswa-mandisa-mngadi-638970366)
 
 ---
