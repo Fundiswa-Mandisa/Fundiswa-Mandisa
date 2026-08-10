@@ -1,7 +1,7 @@
 <h1 align="center">💗 Hi, I'm Fundiswa 💗</h1>
 <h2>Aspiring Cloud Engineer | Software Developer | Linux & HPC Enthusiast</h2>
 
-A Computer Science student focused on cloud engineering, Python development, and Linux systems.
+A Computer Science student focused on cloud engineering, Software development, and Linux systems.
 I enjoy building practical projects, working in the terminal, and learning how systems work behind the scenes.
 
 I believe growth doesn't have to be loud to be real.
