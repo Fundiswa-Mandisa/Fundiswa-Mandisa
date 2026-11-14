@@ -1,5 +1,7 @@
 <h1 align="center">💗 Hi, I'm Fundiswa 💗</h1>
-<h2>Aspiring Cloud Engineer | Software Developer | Linux & HPC Enthusiast</h2>
+<h2>Product Engineer | Aspiring Cloud Engineer | Linux & HPC Enthusiast</h2>
+
+Product Engineer at Ramunex Technologies.
 
 A Computer Science student focused on cloud engineering, Software development, and Linux systems.
 I enjoy building practical projects, working in the terminal, and learning how systems work behind the scenes.
